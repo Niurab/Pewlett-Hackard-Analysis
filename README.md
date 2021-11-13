@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Purpose of the analysis
+### Purpose of the analysis
 
 In this study, we determined the number of retiring employees by title and identify employees eligible for participation in the mentorship program.
 
