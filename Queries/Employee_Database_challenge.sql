@@ -52,3 +52,6 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY emp_no;
 
+SELECT COUNT(mt.emp_no)
+INTO mentor_count
+FROM mentorship_eligibility AS mt;
