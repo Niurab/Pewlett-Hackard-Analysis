@@ -41,6 +41,12 @@ D. Many of the employees eligible for the mentorship program are senior members 
 
 The fact that 64 percent of all employees are of retirement age indicates that many positions will become vacant in the coming years. Since there will likely not be enough employees in the workforce to occupy these positions is where the mentorship program comes into play. Learning from the retiring employees will enhance the capability of employees that will occupy these positions. Also, the coming generation of employees are more likely to catch up and help the organisation continue the positive trend because of their technology savvy nature.
 
+A total of 1,459 employees are eligible for the mentorship program. This is shown in the table below.
+
+![mentor_count](https://user-images.githubusercontent.com/91093413/141611916-9a71fd42-e606-42ad-8ffb-275a8cbc67d5.png)
+
+The need to find out the number of young employees at Pewlett Hackard and how long they have been in their current position is important and additional queries can be made to find out the number.
+
 
 ----------------------------------------
 PostgreSQL 11
