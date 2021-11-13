@@ -15,11 +15,26 @@ This report summarizes the analysis and helps prepare Bobby’s manager for what
 ## Results
 A. The retirement_titles table provides every employee eligible for retirement as well as how long they have worked in each position since they join Pewlett Hackard.
 
+![retirement_titles](https://user-images.githubusercontent.com/91093413/141611262-f6befa1c-1452-4623-a3fe-cb92a8381668.png)
+
+
+
 B. The unique_titles table shows the most recent title for employees in the retirement age.
+
+
+![unique_titles](https://user-images.githubusercontent.com/91093413/141611287-e2148264-03de-48d7-ae93-b02afa66c6ad.png)
+
 
 C. The retiring_titles show the employees of retirement age. 64 (57,000 out of the total 90,398) percent of those employees are senior members of the organisation.
 
+
+![retiring_titles](https://user-images.githubusercontent.com/91093413/141611298-c0814a52-577f-40cc-ad6c-af0f3b564ad6.png)
+
+
 D. Many of the employees eligible for the mentorship program are senior members of Pewlett Hackard.
+
+
+![Mentorship_elegibility](https://user-images.githubusercontent.com/91093413/141611308-dafde186-2a1f-4e52-9cfa-9c8d43c8f5fa.png)
 
 
 ## Summary
