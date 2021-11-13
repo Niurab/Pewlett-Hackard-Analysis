@@ -37,6 +37,7 @@ D. Many of the employees eligible for the mentorship program are senior members 
 ![Mentorship_elegibility](https://user-images.githubusercontent.com/91093413/141611308-dafde186-2a1f-4e52-9cfa-9c8d43c8f5fa.png)
 
 
+
 ## Summary
 
 The fact that 64 percent of all employees are of retirement age indicates that many positions will become vacant in the coming years. Since there will likely not be enough employees in the workforce to occupy these positions is where the mentorship program comes into play. Learning from the retiring employees will enhance the capability of employees that will occupy these positions. Also, the coming generation of employees are more likely to catch up and help the organisation continue the positive trend because of their technology savvy nature.
